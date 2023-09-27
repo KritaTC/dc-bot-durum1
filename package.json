@@ -1,0 +1,22 @@
+{
+    "name": "current-discord-bot",
+    "version": "0.1.0",
+    "description": "im try with my discord bot project",
+    "repository": {
+        "type": "git",
+        "url": ".gg/1232"
+    },
+    "author": "Saldiray",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "discord.js": "^14.7.1",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
